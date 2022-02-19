@@ -1,0 +1,11 @@
+<suite name="ShikhaiAppTest" verbose="1">
+	<test name="ShikhaiAppTest">
+		<classes>
+		<class name="com.shikhai.shikhaiApp.Test.SessionCreate" />
+		<class name="com.shikhai.shikhaiApp.Test.JoinAsModerator" />	
+		<class name="com.shikhai.shikhaiApp.Test.JoinAsAttendee" />
+		</classes>
+	</test>
+
+</suite>
+
